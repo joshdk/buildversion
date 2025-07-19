@@ -109,7 +109,7 @@ The `{{ .Version }}`, `{{ .Revision }}`/`{{ .ShortRevision }}`, & `{{ .Timestamp
 
 This code is distributed under the [MIT License][license-link], see [LICENSE.txt][license-file] for more information.
 
-[github-actions-badge]:  https://github.com/joshdk/buildversion/workflows/Build/badge.svg
+[github-actions-badge]:  https://github.com/joshdk/buildversion/workflows/Test/badge.svg
 [github-actions-link]:   https://github.com/joshdk/buildversion/actions
 [license-badge]:         https://img.shields.io/badge/license-MIT-green.svg
 [license-file]:          https://github.com/joshdk/buildversion/blob/master/LICENSE.txt
